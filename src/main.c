@@ -160,4 +160,5 @@ int main() {
 
         EndDrawing();
     }
+    CloseWindow();
 }
